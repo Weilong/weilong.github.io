@@ -1,0 +1,5 @@
+name: My New Blog 
+markdown: redcarpet
+pygments: true
+permalink: date
+paginate: 5
